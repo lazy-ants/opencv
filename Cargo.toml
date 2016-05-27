@@ -1,0 +1,7 @@
+[package]
+name = "cvtest"
+version = "0.1.0"
+authors = ["dimka2014 <dimabelyaev27@gmail.com>"]
+
+[dependencies]
+opencv = { git = "git://github.com/kali/opencv-rust" }
